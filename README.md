@@ -1,4 +1,7 @@
 # Dungeon Descent
+<p align="center">
+  <img src="assets/dungeon_banner.gif" alt="Dungeon Descent Banner" />
+</p>
 
 A terminal-based RPG dungeon crawler game with turn-based combat, ASCII art, and progressive difficulty.
 
