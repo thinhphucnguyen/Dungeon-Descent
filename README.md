@@ -16,7 +16,7 @@ A Terminal RPG Dungeon Crawler
 ```
 
 A terminal-based RPG dungeon crawler game with turn-based combat, ASCII art, and progressive difficulty.
-
+```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                     DUNGEON DESCENT GAMEPLAY                             ║
 ╚══════════════════════════════════════════════════════════════════════════╝
@@ -40,7 +40,7 @@ A terminal-based RPG dungeon crawler game with turn-based combat, ASCII art, and
             │                       │                       │
             ▼                       ▼                       ▼
         [FIGHT]                  [FIGHT]               [FINAL BOSS]
-        
+```       
 ## What It Does
 
 Fight through a dungeon with three enemies (Skeleton, Witch, Minotaur) using:
