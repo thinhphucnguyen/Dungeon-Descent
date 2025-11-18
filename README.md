@@ -50,7 +50,7 @@ Fight through a dungeon with three enemies (Skeleton, Witch, Minotaur) using:
 
 Level up, gain stats, and choose from 3 difficulty modes (Easy, Normal, Hard).
 ```   
-╔═════════════════════════════════════════════════════════════╗
+    ╔═════════════════════════════════════════════════════════════╗
     ║                    ENEMY #1: SKELETON                       ║
     ╠═════════════════════════════════════════════════════════════╣
     ║         .-.                                                 ║
