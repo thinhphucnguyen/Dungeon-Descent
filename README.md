@@ -17,6 +17,30 @@ A Terminal RPG Dungeon Crawler
 
 A terminal-based RPG dungeon crawler game with turn-based combat, ASCII art, and progressive difficulty.
 
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     DUNGEON DESCENT GAMEPLAY                             ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────┐  ┌─────────────────────┐  ┌─────────────────────┐
+│   STAGE 1/3         │  │   STAGE 2/3         │  │   STAGE 3/3         │
+│   ═════════         │  │   ═════════         │  │   ═════════         │
+│                     │  │                     │  │                     │
+│      SKELETON       │  │       WITCH         │  │     MINOTAUR        │
+│         .-.         │  │         /\          │  │      (__)(__)       │
+│        (o.o)        │  │        /**\         │  │      /      \       │
+│         |=|         │  │       /****\        │  │     | ^    ^ |      │
+│        __|__        │  │      /  ^  ^\       │  │     |   ()   |      │
+│      //.=|=.\\      │  │     |  (o)(o) |     │  │    /|        |\     │
+│                     │  │                     │  │   / |  ____  | \    │
+│   HP: ████░░ 8      │  │   HP: ██████░ 12    │  │  HP: ████████ 20    │
+│   ATK: 2  DEF: 1    │  │   ATK: 3  DEF: 2    │  │  ATK: 5  DEF: 4     │
+│                     │  │                     │  │                     │
+│   DIFFICULTY: ★     │  │   DIFFICULTY: ★★    │  │  DIFFICULTY: ★★★    │
+└─────────────────────┘  └─────────────────────┘  └─────────────────────┘
+            │                       │                       │
+            ▼                       ▼                       ▼
+        [FIGHT]                  [FIGHT]               [FINAL BOSS]
+        
 ## What It Does
 
 Fight through a dungeon with three enemies (Skeleton, Witch, Minotaur) using:
